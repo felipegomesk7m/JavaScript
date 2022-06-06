@@ -54,6 +54,15 @@ button {
     cursor: pointer;
 }
 
+#limit {
+    display: none;
+    font-size: 0.9rem;
+}
+
+#limit i {
+    color: #ff6347;
+}
+
 #footer-github {
     padding: 1rem;
     height: auto;
@@ -74,4 +83,8 @@ button {
 #footer-github a {
     text-decoration: none;
     color:#fff;
+}
+
+#footer-github a:hover {
+    color: #F4F4FF;
 }
