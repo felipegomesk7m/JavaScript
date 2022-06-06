@@ -11,3 +11,7 @@ Aplicação de treino feito para a plataforma da Digital Innovation One (Dio) mi
 📝 Mudar a cor para vermelho quando ele ficar negativo:
 
  - A cor fica em vermelho enquanto o contador estiver negativo.
+
+ ## Screenshot
+
+ <img src="https://user-images.githubusercontent.com/74694976/172266737-00b68888-7320-4138-9102-6b8acafddb13.png" position="center">
